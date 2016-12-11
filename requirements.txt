@@ -1,0 +1,6 @@
+argparse==1.2.1
+wsgiref==0.1.2
+numpy
+pandas==0.18
+matplotlib
+seaborn
